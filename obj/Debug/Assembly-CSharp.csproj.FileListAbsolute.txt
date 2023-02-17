@@ -1,0 +1,2 @@
+F:\Unity\Project\github\UnityDevKGD\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+F:\Unity\Project\github\UnityDevKGD\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
